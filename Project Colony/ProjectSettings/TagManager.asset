@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - bed
+  - SellPoint
+  - Ore
+  - Food
+  - Miner
+  - Wood
   layers:
   - Default
   - TransparentFX
